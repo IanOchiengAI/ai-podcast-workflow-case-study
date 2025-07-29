@@ -25,7 +25,7 @@ The workflow's success hinges on a strategic, human-in-the-loop process:
 1.  **Source Curation & Grounding:** High-quality sources (articles, research) are curated to provide a factual foundation for each episode's topic.
 2.  **AI-Assisted Scripting (NotebookLM):** I use Google's NotebookLM to ground the AI in the provided sources, then leverage it to summarize key points and structure a coherent podcast script.
 3.  **Professional Voice Synthesis:** The script is rendered using high-quality AI voices selected to match the show's authoritative tone.
-4.  **Human-Led Audio Engineering:** **This is the critical quality-control step.** I personally perform a full editing and mastering pass in DaVinci Resolve/Audacity, mixing in music and ensuring the final track meets professional loudness standards.
+4.  **Human-Led Audio Engineering:** **This is the critical quality-control step.** I personally perform a full editing and mastering pass in DaVinci Resolve, mixing in music and ensuring the final track meets professional loudness standards.
 
 ### **5. Key Results & Proof of Concept**
 *   **Consistency:** **Over 240 episodes** produced and released on a consistent schedule.
