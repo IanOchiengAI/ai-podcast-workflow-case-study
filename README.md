@@ -35,7 +35,7 @@ The workflow's success hinges on a strategic, human-in-the-loop process:
 ### **Live Demo: Hear the Quality for Yourself**
 I used this exact process to create my daily podcast. Listen to a sample episode below to experience the final audio quality.
 
-➡️ Listen to "Before AGI" on [Spotify]([https://your-spotify-link.com](https://open.spotify.com/show/61nALQpyoTFVf0kW2y5HCa?si=d83af9c2fee04553)) or [YouTube]([https://your-youtube-link.com](https://youtube.com/playlist?list=PLBZNjwfFgKEnq8ASTsdxUeL_pJObIzDxU&si=gAP1GZqRh-bozLKN))
+➡️ Listen to "Before AGI" on [Spotify](https://open.spotify.com/show/61nALQpyoTFVf0kW2y5HCa?si=d83af9c2fee04553) or [YouTube](https://youtube.com/playlist?list=PLBZNjwfFgKEnq8ASTsdxUeL_pJObIzDxU&si=gAP1GZqRh-bozLKN)
 
 ### **6. Technical Stack**
 *   **Core AI Tool:** Google's NotebookLM (Sourcing, Summarization, Scripting)
