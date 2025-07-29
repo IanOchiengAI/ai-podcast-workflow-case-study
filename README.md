@@ -38,7 +38,7 @@ I used this exact process to create my daily podcast. Listen to a sample episode
 ➡️ Listen to "Before AGI" on [Spotify](https://open.spotify.com/show/61nALQpyoTFVf0kW2y5HCa?si=d83af9c2fee04553) or [YouTube](https://youtube.com/playlist?list=PLBZNjwfFgKEnq8ASTsdxUeL_pJObIzDxU&si=gAP1GZqRh-bozLKN)
 
 ### **6. Technical Stack**
-*   **Core AI Tool:** Google's NotebookLM (Sourcing, Summarization, Scripting)
-*   **Voice Generation:** AI Voice Synthesis APIs (e.g., ElevenLabs)
-*   **Audio Engineering:** DaVinci Resolve / Audacity (Editing, Mixing, Mastering)
+*   **Core AI Tool:** Google's NotebookLM (Summarization, Voice Generation)
+*   **Research:** ChatGPT Deep Research, Perplexity Deep Research, Gemini Deep Research
+*   **Audio Engineering:** DaVinci Resolve (Editing, Mixing, Mastering)
 *   **Distribution:** Spotify for Podcasters, YouTube, Substack
